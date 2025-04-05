@@ -4,6 +4,8 @@ This project allows you to generate fake invoices in PDF format based on dynamic
 generated data using HTML templates and CSS styling. The application leverages Razor Pages 
 to render the fake invoice data into HTML content, which is then converted into a downloadable PDF file.
 
+![Invoice Screenshot](images/invoice-screenshot.png)
+
 ## Features
 
 - **Generate invoices as PDF**: The application generates random invoice data and converts it into a PDF document.
